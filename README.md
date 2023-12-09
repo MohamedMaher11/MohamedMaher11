@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi I'm Mohamed Maher👋</h1>
+<p align="center">
+    <a href="https://twitter.com/iniesta12345671"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.instagram.com/muhmd_maher22"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+  </p>
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-<!--
-**MohamedMaher11/MohamedMaher11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer i'm an experienced software engineer who constantly seeks out innovative solutions to everyday problems. i work with Flutter and Firebase.
 
-Here are some ideas to get you started:
+- 🔭 I'm a software developer
+- 💬 Ask me about **Flutter and Firebase**
+- 🔭 I'm a software developer
+- 👋Flutter framework
+- ⭐SQL
+- 💬Dart
+- 🔭 Hive
+-  👋Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ From [MohamedMaher](https://github.com/MohamedMaher11)
